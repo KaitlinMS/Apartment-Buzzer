@@ -1,0 +1,17 @@
+README
+
+This handy script enhances my apartment buzzer. In my building, the apartment
+buzzer calls a phone. After answering the phone, you can speak with the person
+at the door and press a certain number to unlock the front door.
+
+The problem was that my boyfriend and I didn't want to pay for a landline, and
+using only one of our cell phones was really inconvenient when the other person
+wasn't home!
+
+This script uses a service called Tropo (www.tropo.com). The script is hosted by
+Tropo, which provides a local phone number. When that number is called, the
+script is run.
+
+Our apartment buzzer is set to call that Tropo number. When it does, the script
+tells both of our cell phones to ring, and whoever picks up first "wins." Once
+one phone has been picked up, the other stops ringing.
